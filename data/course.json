@@ -1,0 +1,48 @@
+{
+  "term": "Spring",
+  "year": "2013",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Fine Arts",
+      "Music"
+    ]
+  ],
+  "legacy_uid": "92748882-ab23-6447-d182-e1b08adc9be9",
+  "instructors": {
+    "content": [
+      "81c19a12-2a38-313d-facb-87a92820c039",
+      "35481c16-9a52-5599-be91-a07b098580e4"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "8239e349-4b00-5d5f-5c65-51fb66cc1ec7",
+    "website": "21m-355-musical-improvisation-spring-2013"
+  },
+  "course_title": "Musical Improvisation",
+  "course_description": "In this course, students study concepts and practice techniques of improvisation in solo and ensemble contexts. The course examines relationships between improvisation, composition, and performance based in traditional and experimental approaches. Hands-on music making will be complemented by discussion of the aesthetics of improvisation. Weekly lab sessions support work on musical technique. Guest artist / lecturers will engage students through mini-residencies in jazz with film, Indian music, electronic music, and blending improvisation with classic music; and an accompanying concert series will feature these artists in performance. Open by audition to instrumental or vocal performers.\n",
+  "department_numbers": [
+    "21M"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21M.355",
+  "course_image_thumbnail": {
+    "content": "ef1cb878-67e8-3671-17c4-530720a9c3de",
+    "website": "21m-355-musical-improvisation-spring-2013"
+  },
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Other Video",
+    "Projects with Examples",
+    "Design Assignments",
+    "Written Assignments",
+    "Instructor Insights"
+  ],
+  "site_uid": "7c506b40-b5e5-4356-8a1c-eabc579341d3",
+  "site_short_id": "21m.355-spring-2013",
+  "site_url_path": "courses/21m-355-musical-improvisation-spring-2013",
+  "title": "Course Metadata"
+}

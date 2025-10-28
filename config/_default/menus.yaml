@@ -1,0 +1,25 @@
+leftnav:
+- identifier: e489ab95-189d-2037-c833-cbde90e90899
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: f2e2eae3-2705-2f80-1368-cb85922c9c92
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights
+  weight: 20
+- identifier: 882f31d7-a2ba-316b-c075-2bfc69ad6cde
+  name: Calendar and Videos
+  pageRef: /pages/calendar-and-videos
+  weight: 30
+- identifier: f10a271c-1769-208c-4163-94dca3bf7396
+  name: Concert Videos
+  pageRef: /video_galleries/concert-videos
+  weight: 40
+- identifier: ef7a68a9-47c3-5b1d-4303-e5002959d2d9
+  name: Readings and Listening
+  pageRef: /pages/readings-and-listening
+  weight: 50
+- identifier: 0172cb7a-c07e-ff4e-7510-ae45606353a8
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 60
